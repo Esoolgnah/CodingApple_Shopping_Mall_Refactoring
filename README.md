@@ -1,8 +1,8 @@
-# CodingApple_Shopping_Mall
+# CodingApple_Shopping_Mall_Refactoring
 
-강의를 수강완료하고 코드 리팩토링, 업그레이드 중입니다.
+리팩터링 2판을 읽으며 기존 쇼핑몰 프로젝트를 리팩토링합니다. 🛠
 <br/>
 <br/>
-🚀 [링크](https://esoolgnah.github.io/)
+🚀 [링크](https://esoolgnah.github.io/CodingApple_Shopping_Mall_Refactoring)
 <br/>
-📖 [리팩토링 노트](https://hangloose.oopy.io/f8e70091-bb93-4de2-9780-be5c70fe95cd)
+📖 [리팩토링 노트]()
