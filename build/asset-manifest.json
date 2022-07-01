@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CodingApple_Shopping_Mall_Refactoring/static/css/main.cd70f4a1.chunk.css",
-    "main.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/main.64a2d333.chunk.js",
-    "main.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/main.64a2d333.chunk.js.map",
-    "runtime-main.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/runtime-main.68b9dad8.js",
-    "runtime-main.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/runtime-main.68b9dad8.js.map",
+    "main.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/main.27b106e3.chunk.js",
+    "main.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/main.27b106e3.chunk.js.map",
+    "runtime-main.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/runtime-main.54cb1757.js",
+    "runtime-main.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/runtime-main.54cb1757.js.map",
     "static/css/2.e05b4081.chunk.css": "/CodingApple_Shopping_Mall_Refactoring/static/css/2.e05b4081.chunk.css",
     "static/js/2.b91c8918.chunk.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/2.b91c8918.chunk.js",
     "static/js/2.b91c8918.chunk.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/2.b91c8918.chunk.js.map",
     "static/css/3.b5536b1a.chunk.css": "/CodingApple_Shopping_Mall_Refactoring/static/css/3.b5536b1a.chunk.css",
-    "static/js/3.7a05d949.chunk.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/3.7a05d949.chunk.js",
-    "static/js/3.7a05d949.chunk.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/3.7a05d949.chunk.js.map",
+    "static/js/3.838428b6.chunk.js": "/CodingApple_Shopping_Mall_Refactoring/static/js/3.838428b6.chunk.js",
+    "static/js/3.838428b6.chunk.js.map": "/CodingApple_Shopping_Mall_Refactoring/static/js/3.838428b6.chunk.js.map",
     "index.html": "/CodingApple_Shopping_Mall_Refactoring/index.html",
     "static/css/2.e05b4081.chunk.css.map": "/CodingApple_Shopping_Mall_Refactoring/static/css/2.e05b4081.chunk.css.map",
     "static/css/3.b5536b1a.chunk.css.map": "/CodingApple_Shopping_Mall_Refactoring/static/css/3.b5536b1a.chunk.css.map",
@@ -31,10 +31,10 @@
     "static/media/spinner.d3fbaf2b.gif": "/CodingApple_Shopping_Mall_Refactoring/static/media/spinner.d3fbaf2b.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.68b9dad8.js",
+    "static/js/runtime-main.54cb1757.js",
     "static/css/2.e05b4081.chunk.css",
     "static/js/2.b91c8918.chunk.js",
     "static/css/main.cd70f4a1.chunk.css",
-    "static/js/main.64a2d333.chunk.js"
+    "static/js/main.27b106e3.chunk.js"
   ]
 }

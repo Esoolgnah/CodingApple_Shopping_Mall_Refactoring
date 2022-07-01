@@ -7,7 +7,7 @@ function Card(props) {
 
   /* Detail 페이지로 이동하기 */
   const goDetailPage = (id) => {
-    history.push('/detail/' + id);
+    history.push('/CodingApple_Shopping_Mall_Refactoring/detail/' + id);
   };
 
   /* 숫자에 콤마(,)추가하여 표시 */

@@ -118,7 +118,7 @@ function Detail(props) {
   const goDetailPage = (el) => {
     getDataAndSetting(el);
     setTimeout(() => {
-      history.push('/detail/' + el);
+      history.push('/CodingApple_Shopping_Mall_Refactoring/detail/' + el);
       alert변경(true);
       let 타이머 = setTimeout(() => {
         alert변경(false);
@@ -187,7 +187,7 @@ function Detail(props) {
           <button
             className='btn btn-primary opacity'
             onClick={() => {
-              history.push('/');
+              history.push('/CodingApple_Shopping_Mall_Refactoring');
             }}
           >
             뒤로가기

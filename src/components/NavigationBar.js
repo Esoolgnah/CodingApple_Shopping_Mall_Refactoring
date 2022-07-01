@@ -7,10 +7,10 @@ function NavigationBar(props) {
 
   const goHome = () => {
     props.shoes변경([props.shoes[0], props.shoes[1], props.shoes[2]]);
-    history.push('/');
+    history.push('/CodingApple_Shopping_Mall_Refactoring');
   };
   const goCart = () => {
-    history.push('/cart');
+    history.push('/CodingApple_Shopping_Mall_Refactoring/cart');
   };
 
   return (

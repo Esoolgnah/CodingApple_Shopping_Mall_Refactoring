@@ -116,7 +116,7 @@ function Cart(props) {
     }
 
     setTimeout(() => {
-      history.push('/detail/' + id);
+      history.push('/CodingApple_Shopping_Mall_Refactoring/detail/' + id);
     }, 1000);
   };
 

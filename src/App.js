@@ -15,7 +15,7 @@ let Detail = lazy(() => import('./pages/Detail.js'));
 
 function App() {
   let [shoes, shoes변경] = useState(Data);
-  let state = useSelector(state => state);
+  let state = useSelector((state) => state);
 
   return (
     <div className='App'>
@@ -25,15 +25,15 @@ function App() {
       {/* 모달 */}
 
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/CodingApple_Shopping_Mall_Refactoring'>
           {/* 메인페이지 */}
           <Main shoes={shoes} shoes변경={shoes변경} />
         </Route>
-        <Route path='/cart'>
+        <Route path='/CodingApple_Shopping_Mall_Refactoring/cart'>
           {/* 장바구니 페이지 */}
           <Cart shoes={shoes} shoes변경={shoes변경} />
         </Route>
-        <Route path='/detail/:id'>
+        <Route path='/CodingApple_Shopping_Mall_Refactoring/detail/:id'>
           <Suspense
             fallback={
               <div id='loadingContainer'>

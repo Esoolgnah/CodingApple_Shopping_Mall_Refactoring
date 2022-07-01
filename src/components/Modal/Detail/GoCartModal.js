@@ -11,7 +11,7 @@ function GoCartModal() {
 
   const goCart = () => {
     modalOff();
-    history.push('/cart');
+    history.push('/CodingApple_Shopping_Mall_Refactoring/cart');
   };
 
   const modalOff = () => {
