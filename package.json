@@ -53,12 +53,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Esoolgnah/CodingApple_Shopping_Mall.git"
+    "url": "https://esoolgnah.github.io/CodingApple_Shopping_Mall_Refactoring.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Esoolgnah/CodingApple_Shopping_Mall/issues"
+    "url": "https://esoolgnah.github.io/CodingApple_Shopping_Mall_Refactoring/issues"
   },
   "keywords": []
 }
